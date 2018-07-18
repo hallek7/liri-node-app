@@ -14,8 +14,6 @@ exports.twitter = {
     secret: process.env.SPOTIFY_SECRET
   };
   
-  exports.tmdbKey = da0fe056
-
   
   //var Spotify = require('node-spotify-api');
   
